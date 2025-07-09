@@ -1,0 +1,13 @@
+# Ignore source and config files
+src/**
+packages/**
+storybook/**
+.storybook/**
+*.test.*
+.vscode/**
+**/vitest.config.ts
+**/tsconfig.json
+**/astro.config.mjs
+**/svelte.config.js
+**/public/**
+**/lib/**
